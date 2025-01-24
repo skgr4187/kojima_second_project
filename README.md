@@ -30,7 +30,7 @@ php artisan db:seed
 - MySQL 15.1
 
 ## ER図
-![ER図](images/second_project_ER.png)
+!([images/second_project_ER.png](https://github.com/skgr4187/kojima_second_project/issues/1#issue-2809380777))
 
 ## URL
 - 開発環境  
