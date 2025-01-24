@@ -36,4 +36,4 @@ php artisan db:seed
 - 開発環境  
 [http://localhost/](http://localhost/)  
 - phpMyAdmin  
-[http://localhost:8080/](http://localhost:8080/)# kojima_second_project
+[http://localhost:8080/](http://localhost:8080/)
